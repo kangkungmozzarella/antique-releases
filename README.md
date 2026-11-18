@@ -1,18 +1,19 @@
 # Antique
 
-Notch kecil yang hidup di tengah atas layar Windows: mata yang mengikuti kursor dan bereaksi,
-notifikasi WhatsApp dkk., musik dan lirik, jadwal sholat, cuaca, dan timer fokus.
+Notch kecil yang hidup di tengah atas layar Windows dan Mac: mata yang mengikuti kursor dan
+bereaksi, notifikasi WhatsApp dkk., musik dan lirik, jadwal sholat, cuaca, dan timer fokus.
 
-A living notch for the top of your Windows screen.
+A living notch for the top of your screen, on Windows and macOS.
 
 ## Unduh
 
-Ambil `Antique-Windows-setup.exe` dari [rilis terbaru](../../releases/latest).
-Windows 10 dan 11. Versi macOS menyusul.
+Dari [rilis terbaru](../../releases/latest):
 
-Installer belum bertanda tangan sertifikat, jadi Windows mungkin menampilkan peringatan
-SmartScreen. Pilih **More info** lalu **Run anyway**. Setelah terpasang, Antique memperbarui
-dirinya sendiri dari halaman rilis ini.
+- **Windows 10 dan 11:** `Antique-Windows-setup.exe`. Bila muncul peringatan SmartScreen, pilih
+  **More info** lalu **Run anyway**. Setelah terpasang, Antique memperbarui dirinya sendiri.
+- **macOS 12 atau lebih baru** (Apple Silicon dan Intel): `Antique-macOS.dmg`. Aplikasi belum
+  ditandatangani Apple Developer ID; bila macOS menolak saat pertama dibuka, buka **System
+  Settings → Privacy & Security** lalu pilih **Open Anyway**. Versi baru diunduh dari sini.
 
 ## Masukan & masalah
 
